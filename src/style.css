@@ -1,5 +1,16 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
+.bahiana-regular {
+  font-family: "Bahiana", sans-serif;
+  font-weight: 10000;
+  font-style: normal;
+  color: white;
+}
+
+.colorbarra {
+    background-color: rgba(43, 43, 43, 0.897);
+}
+
 body{
-    background: white;
+    background-color: rgb(95, 95, 95);
 }
